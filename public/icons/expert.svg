@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.70666in" height="1.70666in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1707 1707"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:46.6654;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_531865576">
+   <g>
+    <path class="fil0 str0" d="M1068 1207l12 0c131,0 238,107 238,238l0 238 -955 0 0 -238c0,-131 107,-238 238,-238l12 0"/>
+    <path class="fil0 str0" d="M1007 920l0 62c0,91 -75,166 -166,166l0 0c-92,0 -167,-75 -167,-166l0 -69"/>
+    <line class="fil0 str0" x1="935" y1="1207" x2="915" y2= "1131" />
+    <line class="fil0 str0" x1="746" y1="1206" x2="767" y2= "1131" />
+    <line class="fil0 str0" x1="1177" y1="1474" x2="1177" y2= "1683" />
+    <line class="fil0 str0" x1="504" y1="1474" x2="504" y2= "1683" />
+    <path class="fil0 str0" d="M1007 920c4,-120 -12,-224 -166,-164 -151,-59 -170,40 -167,157"/>
+    <path class="fil0 str0" d="M1007 920c112,-231 -26,-239 -26,-239 -30,-105 -236,-61 -244,-81 0,0 5,23 17,34 0,0 -202,42 -80,279"/>
+    <polygon class="fil0 str0" points="841,1263 1009,1340 1068,1207 935,1207 "/>
+    <polygon class="fil0 str0" points="841,1263 672,1340 613,1207 746,1207 "/>
+    <polyline class="fil0 str0" points="957,1316 891,1369 841,1369 790,1369 724,1316 "/>
+    <polygon class="fil0 str0" points="790,1369 891,1369 926,1683 756,1683 "/>
+   </g>
+   <rect class="fil0 str0" x="28" y="631" width="418" height="499"/>
+   <line class="fil0 str0" x1="153" y1="704" x2="320" y2= "704" />
+   <line class="fil0 str0" x1="110" y1="812" x2="364" y2= "812" />
+   <line class="fil0 str0" x1="110" y1="921" x2="364" y2= "921" />
+   <line class="fil0 str0" x1="110" y1="1030" x2="364" y2= "1030" />
+   <g>
+    <polygon class="fil0 str0" points="601,23 1080,23 1080,365 1027,365 968,466 906,365 601,365 "/>
+    <g>
+     <line class="fil0 str0" x1="695" y1="112" x2="986" y2= "112" />
+     <line class="fil0 str0" x1="695" y1="194" x2="986" y2= "194" />
+     <line class="fil0 str0" x1="695" y1="277" x2="986" y2= "277" />
+    </g>
+   </g>
+   <polygon class="fil0 str0" points="213,23 273,135 397,158 310,249 327,375 213,320 98,375 115,249 28,158 153,135 "/>
+   <g>
+    <path class="fil0 str0" d="M1214 292c0,-109 88,-197 197,-197l0 197 196 0c0,108 -88,196 -196,196 -109,0 -197,-88 -197,-196z"/>
+    <path class="fil0 str0" d="M1482 23c109,0 197,88 197,197l-197 0 0 -197z"/>
+   </g>
+   <g>
+    <g>
+     <path class="fil0 str0" d="M1402 763c80,0 145,65 145,145 0,120 -81,60 -81,229l-127 0c0,-169 -82,-109 -82,-229 0,-80 65,-145 145,-145z"/>
+     <line class="fil0 str0" x1="1346" y1="1209" x2="1459" y2= "1209" />
+     <line class="fil0 str0" x1="1364" y1="1281" x2="1441" y2= "1281" />
+    </g>
+    <line class="fil0 str0" x1="1402" y1="631" x2="1402" y2= "696" />
+    <line class="fil0 str0" x1="1562" y1="674" x2="1529" y2= "730" />
+    <line class="fil0 str0" x1="1242" y1="674" x2="1275" y2= "730" />
+    <line class="fil0 str0" x1="1679" y1="790" x2="1622" y2= "823" />
+    <line class="fil0 str0" x1="1126" y1="790" x2="1182" y2= "823" />
+   </g>
+  </g>
+ </g>
+</svg>
